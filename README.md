@@ -67,9 +67,6 @@ All visualizations are interpreted from a **business perspective**, not just des
   - Seasonality  
   - Residuals (irregular effects)
  
-<img width="1194" height="996" alt="image" src="https://github.com/user-attachments/assets/d7ff6cc5-db2a-4606-bc84-23facf294a61" />
-
-
 ---
 
 ## Key Insights
